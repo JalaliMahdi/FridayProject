@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Bizagi\Projects\FridayProject\Scheduler\BizAgi.Scheduler.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   name = BizAgiFridayProjectSchedulerService
+   assemblypath = C:\Bizagi\Projects\FridayProject\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Bizagi\Projects\FridayProject\Scheduler\BizAgi.Scheduler.Services.InstallLog
+Installing service BizAgiFridayProjectSchedulerService...
+Service BizAgiFridayProjectSchedulerService has been successfully installed.
+Creating EventLog source BizAgiFridayProjectSchedulerService in log Application...
+Committing assembly 'C:\Bizagi\Projects\FridayProject\Scheduler\BizAgi.Scheduler.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   name = BizAgiFridayProjectSchedulerService
+   assemblypath = C:\Bizagi\Projects\FridayProject\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Bizagi\Projects\FridayProject\Scheduler\BizAgi.Scheduler.Services.InstallLog
